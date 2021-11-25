@@ -1,0 +1,11 @@
+Pruebas:
+  - Embedia Float.....: OK
+  - Embedia Fixed 32..: OK
+  - Embedia Fixed 16..: OK
+  - Embedia Fixed 8...: OK
+  - Eloquent Tiny ML..: No lo pude compilar en mi máquina
+  - Tensorflow Lite...: OK. Funcionó!!! con el encabezado de alineamiento del modelo de EloquentTinyML
+  - uTensor...........: (Solo ARM). No funcionó. Hay un error de compilación por incompatibilidad de tipos definidos  con el mismo nombre por Esp32 y por uTensor
+  - CMSIS-NN..........: (Solo ARM) No probado
+  - Ms EdgeML.........: No probado
+  

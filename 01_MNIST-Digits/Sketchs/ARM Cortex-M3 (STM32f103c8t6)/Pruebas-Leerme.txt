@@ -1,0 +1,11 @@
+Pruebas:
+  - Embedia Float.....: OK
+  - Embedia Fixed 32..: OK
+  - Embedia Fixed 16..: OK
+  - Embedia Fixed 8...: OK
+  - Eloquent Tiny ML..: (Solo ARM) Compila pero no entra. "region `FLASH' overflowed by 63984 bytes" en la verión de 128kb entra "Sketch uses 128948 bytes (98%) of program storage space." (de dinámica va 10224bytes)
+  - Tensorflow Lite...: (Solo ARM) Error en biblioteca (No compila)
+  - uTensor...........: (Solo ARM) Compila, mal accuracy.
+  - CMSIS-NN..........: (Solo ARM) No probado
+  - Ms EdgeML.........: No probado
+  

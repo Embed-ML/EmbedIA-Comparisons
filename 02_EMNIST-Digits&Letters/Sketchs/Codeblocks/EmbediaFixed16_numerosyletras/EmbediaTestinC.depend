@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1630107979 source:h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\emnist_model.c
+	"emnist_model.h"
+
+1630107980 h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\emnist_model.h
+	"embedia.h"
+
+1630184540 h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\embedia.h
+	<stdint.h>
+	<math.h>
+	"fixed.h"
+	<stdlib.h>
+
+1630184610 h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\fixed.h
+	<stdint.h>
+
+1630107979 source:h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\fixed.c
+	"fixed.h"
+
+1630184595 source:h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"emnist_model.h"
+
+1630184541 source:h:\fede\facultad\2021\lidi proyecto embed+ml\investigación smarttech\embediafixed16_numerosyletras\embediatestinc\embedia.c
+	"embedia.h"
+
